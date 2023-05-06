@@ -1,4 +1,4 @@
 # memory-game
 ```diff
-- Still Under __Development__
+- Still Under **Development**
 ```
